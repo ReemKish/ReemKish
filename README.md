@@ -5,7 +5,7 @@
 -->
 
 
-- I'm a 20 years old developer from Israel.
+- I'm a 21 years old developer from Israel.
 - I currently study for M.Sc in Computer Science at the Open University of Israel.
 - I mainly program in Python & C.
 
